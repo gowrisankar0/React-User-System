@@ -1,3 +1,5 @@
+
+
 .App {
   text-align: center;
 }
@@ -5,6 +7,22 @@
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+table,th,td,tr{
+  border: 1px solid black;
+  border-collapse: collapse;
+  padding:10px;
+  width:900px;
+  margin-top: 55px;
+
+
+}
+table img{
+  width:100px;
+}
+table{
+  background-color: #b5b7bcaa;
+  text-align: center;
 }
 
 @media (prefers-reduced-motion: no-preference) {
