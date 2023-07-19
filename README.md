@@ -1,3 +1,52 @@
+
+<h1>React</h1>
+<h1>It is one of my project among MERN stack Development </h1>
+
+
+<h2>USER MANEGEMENT SYSTEM</h2>
+
+<h3>The given user input's  are stored below the corresponding coloumn of the table </h3>
+
+
+<h2>Member -1</h2>
+
+
+
+
+
+
+![Screenshot (87)](https://github.com/gowrisankar0/React-User-System/assets/113678338/01fb8c28-47c8-465c-97fc-9b2ed6ebe7c1)
+
+
+
+
+
+
+
+![Screenshot (88)](https://github.com/gowrisankar0/React-User-System/assets/113678338/3b48d986-2008-446f-b541-82200506b42e)
+
+
+
+
+
+<h2>Member -2</h2>
+
+
+
+
+
+![Screenshot (89)](https://github.com/gowrisankar0/React-User-System/assets/113678338/479377a6-b1f8-4740-8367-767bbb8ada83)
+
+
+
+
+
+
+
+![Screenshot (90)](https://github.com/gowrisankar0/React-User-System/assets/113678338/62ad73f6-622a-4556-9009-219889512905)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
